@@ -1,0 +1,18 @@
+export const COLORS = {
+  darkBg: '#1a1a2e',
+  darkBg2: '#16213e',
+  darkBg3: '#0f3460',
+  cyan: '#00d4ff',
+  purple: '#b946e8',
+  blue: '#0ea5e9',
+  text: '#ffffff',
+  textSecondary: '#a0a0a0',
+  textTertiary: '#666666',
+  success: '#10b981',
+  warning: '#f59e0b',
+  danger: '#ef4444',
+  info: '#3b82f6',
+  border: '#0f3460',
+  card: '#16213e',
+  shadow: 'rgba(0, 212, 255, 0.1)',
+};
